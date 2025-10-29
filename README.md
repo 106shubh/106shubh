@@ -35,14 +35,7 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em" />
-</p>
-
----
 
 <h2 align="center">🎯 Current Focus</h2>
 
