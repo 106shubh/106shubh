@@ -1,9 +1,9 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shubh;AI+%26+ML+Student;Web+Developer;Tech+Explorer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shubh;AI+%26+ML+Student;Web+Developer;Tech+Explorer;Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
+<h1 align="center">🧠 About Me</h1>
 
 <p align="center">
 I'm a <strong>2nd-year Artificial Intelligence & Machine Learning</strong> student passionate about building intelligent systems that make life easier and more efficient.  
@@ -16,7 +16,7 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 ---
 
-<h2 align="center">🚀 What I Do</h2>
+<h1 align="center">🚀 What I Do</h1>
 
 <p align="center">
   🧩 Explore <strong>Machine Learning</strong> and <strong>Deep Learning</strong> models <br>
