@@ -49,32 +49,27 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 <div align="center">
 
+<div align="center">
+
 # 🌐 Connect With Me
 
 ---
 
-<a href="https://www.instagram.com/shubhsucks">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" />
+<a href="https://www.instagram.com/shubhsucks" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="55" height="55" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shubham-mishra-b10b30356/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" />
+
+<a href="https://www.linkedin.com/in/shubham-mishra-b10b30356/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="55" height="55" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:101shubhmishra@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="55" height="55" />
 </a>
-
-<br><br>
-
-Instagram • LinkedIn • Gmail
 
 </div>
-## 🔥 Featured Projects
-
-<a href="https://github.com/106shubh/YOUR_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=106shubh&repo=YOUR_REPO&theme=tokyonight" />
-</a>
 
 # 📊 GitHub Stats
 
