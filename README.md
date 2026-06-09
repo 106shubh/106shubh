@@ -54,22 +54,21 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 # 🌐 Connect With Me
 
 ---
+<h2 align="center">🌐 Connect With Me</h2>
 
-<a href="https://www.instagram.com/shubhsucks" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="55" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/shubham-mishra-b10b30356/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="55" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:101shubhmishra@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="55" height="55" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/shubhsucks">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubham-mishra-b10b30356/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:101shubhmishra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 # 📊 GitHub Stats
 
