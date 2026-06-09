@@ -47,23 +47,23 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.instagram.com/your_username">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Instagram.gif" width="50">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Instagram.gif" width="60" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/your_username">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Linkedin.gif" width="50">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Linkedin.gif" width="60" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://twitter.com/your_username">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Twitter.gif" width="50">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Twitter.gif" width="60" alt="Twitter"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="mailto:your_email@gmail.com">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Gmail.gif" width="50">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Gmail.gif" width="60" alt="Gmail"/>
   </a>
 </p>
 ## 🔥 Featured Projects
