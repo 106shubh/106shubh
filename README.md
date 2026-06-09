@@ -47,25 +47,29 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.instagram.com/your_username">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Instagram.gif" width="60" alt="Instagram"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/your_username">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Linkedin.gif" width="60" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://twitter.com/your_username">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Twitter.gif" width="60" alt="Twitter"/>
-  </a>
-  
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Gmail.gif" width="60" alt="Gmail"/>
-  </a>
-</p>
+# 🌐 Connect With Me
+
+---
+
+<a href="https://www.instagram.com/shubhsucks">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shubham-mishra-b10b30356/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:101shubhmishra@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" />
+</a>
+
+<br><br>
+
+Instagram • LinkedIn • Gmail
+
+</div>
 ## 🔥 Featured Projects
 
 <a href="https://github.com/106shubh/YOUR_REPO">
