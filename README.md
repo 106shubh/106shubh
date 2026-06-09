@@ -53,8 +53,8 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 # 🌐 Connect With Me
 
----
-<h2 align="center">🌐 Connect With Me</h2>
+
+
 
 <p align="center">
   <a href="https://www.instagram.com/shubhsucks">
@@ -69,7 +69,7 @@ I also love crafting <strong>web applications</strong> that combine creativity a
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
+---
 # 📊 GitHub Stats
 
 <p align="center">
