@@ -47,11 +47,25 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 ---
 
-## 🌐 Socials:    
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/shubhsucks/)
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mishra-b10b30356/)
-
+<p align="center">
+  <a href="https://www.instagram.com/your_username">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Instagram.gif" width="50">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your_username">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Linkedin.gif" width="50">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your_username">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Twitter.gif" width="50">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/AnimatedIcons/Gmail.gif" width="50">
+  </a>
+</p>
 ## 🔥 Featured Projects
 
 <a href="https://github.com/106shubh/YOUR_REPO">
