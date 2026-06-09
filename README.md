@@ -47,8 +47,16 @@ I also love crafting <strong>web applications</strong> that combine creativity a
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shubhsucks/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-mishra-b10b30356/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:101shubhmishra@gmail.com) 
+## 🌐 Socials:    
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/shubhsucks/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mishra-b10b30356/)
+
+## 🔥 Featured Projects
+
+<a href="https://github.com/106shubh/YOUR_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=106shubh&repo=YOUR_REPO&theme=tokyonight" />
+</a>
 
 # 📊 GitHub Stats
 
